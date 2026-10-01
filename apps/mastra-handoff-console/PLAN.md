@@ -32,9 +32,9 @@ Builders want a visible, single-user proof of multi-agent handoffs with Mastra (
 - In-memory run state only; no DB
 
 ## Done when
-- [ ] `bun install` + `bun run dev` works from apps/mastra-handoff-console/
-- [ ] User can submit a topic and see 3 sequential handoffs in the UI
-- [ ] PLAN.md and README.md exist with run instructions
+- [x] `bun install` + `bun run dev` works from apps/mastra-handoff-console/
+- [x] User can submit a topic and see 3 sequential handoffs in the UI
+- [x] PLAN.md and README.md exist with run instructions
 - [ ] PR includes at least one screenshot AND one short video of the running flow
 
 ## Deploy (Cloudflare Pages)

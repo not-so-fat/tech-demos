@@ -1,5 +1,19 @@
 {
-  "proposed": [],
+  "proposed": [
+    {
+      "slug": "mastra-handoff-console",
+      "title": "Mastra Handoff Console",
+      "source": "https://x.com/stretchcloud/status/2104650852262715515",
+      "note": "TS multi-agent framework; handoff console demo"
+    }
+  ],
   "skipped": [],
-  "built": []
+  "built": [
+    {
+      "slug": "mastra-handoff-console",
+      "title": "Mastra Handoff Console",
+      "source": "https://x.com/stretchcloud/status/2104650852262715515",
+      "note": "TS multi-agent framework; handoff console demo"
+    }
+  ]
 }
